@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "clone": "^2.1.2",
-    "hmac-blake2b": "^0.2.0",
+    "hmac-blake2b": "sce9sc/hmac-blake2b",
     "nanoassert": "^1.1.0",
     "sodium-universal": "sce9sc/sodium-universal"
   },
